@@ -2,6 +2,7 @@
  Blender addon designed to create and integrate customizable gradients directly into the Video Sequence Editor. It allows video editors to add visually stunning gradient effects to their sequences, supporting various gradient types, color blending modes, and repeat options for endless creative possibilities. The addon is user-friendly, creating smooth transitions and more.  
 
 ---
+![UI](https://github.com/user-attachments/assets/ed029509-33ee-49d1-9557-5ab96bf1faa1)
 
 ### Features  
 - **Multiple Gradient Types**  
