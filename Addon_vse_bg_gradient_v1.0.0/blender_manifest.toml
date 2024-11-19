@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "bg_gradientr"
+name = "BG Gradient"
+version = "1.0.0"
+tagline = "Custom multi gradient color, Text typewriter effects"
+maintainer = "Dinesh"
+type = "add-on"
+tags = ["Sequencer"]
+blender_version_min = "4.3.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://extensions.blender.org/author/139/"
+copyright = ["2024 Dinesh"]
+[permissions]
+files = "Requires access to directory auto export and import image files"
